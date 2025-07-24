@@ -11,7 +11,7 @@
 
 ### 👋 Hi there!
 
-<p>🔧 <strong>I'm currently a System Administrator</strong></p>
+<p>🔧 <strong>I'm System Administrator</strong></p>
 
 <p>✍️ Currently diving deep into the fields of <strong>system administration</strong> and <strong>DevOps</strong></p>
 
