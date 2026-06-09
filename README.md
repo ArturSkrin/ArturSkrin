@@ -1,7 +1,7 @@
 <table><tr>
 <td valign="top" width="33%" style="vertical-align: top;">
 
-<img src="git@github.com:ArturSkrin/ArturSkrin.git" align="left" style="width: 100%" />  
+<img src="https://media.gifdb.com/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif" align="left" style="width: 100%" />  
 
 </td>
 
