@@ -41,7 +41,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="48" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="48" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="48" /></a>
-<a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/loki.svg" height="48" /></a>
+<a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://cdn.simpleicons.org/grafana" height="48" alt="Loki" /></a>
 
 </div>
 
