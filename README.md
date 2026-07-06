@@ -28,7 +28,7 @@
 <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" /></a>
 <a href="https://helm.sh/" target="_blank"><img src="https://helm.sh/img/helm.svg" height="48" /></a>
 <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="48" /></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/ansible.png" height="48" /></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" height="48" /></a>
 <a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" /></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="48" /></a>
 
@@ -36,12 +36,12 @@
 
 <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="48" /></a>
 <a href="https://grafana.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/grafana.png" height="48" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="48" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="48" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="48" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="48" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="48" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="48" /></a>
-<a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://cdn.simpleicons.org/grafana" height="48" alt="Loki" /></a>
+<a href="https://cilium.io/" target="_blank"><img src="https://cdn.simpleicons.org/cilium" height="48" /></a>
 
 </div>
 
